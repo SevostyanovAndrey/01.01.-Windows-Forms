@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\0101Image\0101Image\bin\Debug\0101Image.exe.config
+C:\Users\user\source\repos\0101Image\0101Image\bin\Debug\0101Image.exe
+C:\Users\user\source\repos\0101Image\0101Image\bin\Debug\0101Image.pdb
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\0101Image.csprojAssemblyReference.cache
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\_0101Image.Form1.resources
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\_0101Image.Properties.Resources.resources
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\0101Image.csproj.GenerateResource.cache
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\0101Image.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\0101Image.exe
+C:\Users\user\source\repos\0101Image\0101Image\obj\Debug\0101Image.pdb
